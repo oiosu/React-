@@ -6,5 +6,5 @@
 
 
 
-![image-20230118225430155](../imges/◼ 왜 JavaScript 대신 리액트 일까요/image-20230118225430155.png)
+![image](https://user-images.githubusercontent.com/99783474/213190229-8fc6de43-01aa-47a3-9419-268efefe8424.png)
 
